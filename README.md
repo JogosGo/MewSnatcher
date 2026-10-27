@@ -19,6 +19,7 @@ MewSnatcher is a lightweight and simple CLI script that makes downloading YouTub
 > This script is Batch script, you **CAN ONLY** run it on Microsoft Windows.
 
 The most recent versions are available at the [Releases](https://github.com/JogosGo/MewSnatcher/releases) page for the project.
+(No releases are available yet :P)
 > A Linux port isn't going to be created since i don't know bash and i'm NOT going to ask AI to port it.
 
 ## Functions
