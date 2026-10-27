@@ -8,7 +8,7 @@
 > [!TIP]
 > It's highly recommended to **create a new folder for the script**!!! The script creates a folder called "config" for the required dependencies. 
 
-MewSnatcher is a lightweight and simple CLI script that makes downloading YouTube content simple and easy! You use the link of the YouTube content wanting to download and paste it into the script and it will download to the same folder where the script is located.
+MewSnatcher is a lightweight and simple CLI script that makes downloading YouTube content simple and easy! You copy the link of the YouTube content that you want to download and paste it into the script! Then it will download to the same folder where the script is located.
 
 > [!NOTE]
 > This script uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [FFmpeg](https://github.com/FFmpeg/FFmpeg) for downloading and converting videos. This project is simply just a easier "interface" for them.
